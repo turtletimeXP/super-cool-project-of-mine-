@@ -1,0 +1,59 @@
+.links {
+    font-size: medium;
+    border: 3px solid black;
+   background-color: cadetblue;
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   top: 5px;
+   width: 100px;
+   height: 500x;
+}
+body{
+
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px, solid navy;
+}
+.fronttitle{
+    border: 1px solid gray;
+    background-color: bisque;
+    text-align: center;
+}
+.common{
+    background-color:cadetblue;
+    border: 2px solid navy; 
+    position: absolute;
+    
+}
+.pic{
+    bottom: 1px;
+    left: 30px;
+    padding:12px;
+    margin: auto;
+}
+.center{
+    bottom:20px;
+    right: 225px;
+    top:40px;
+    left: 125px;
+
+}
+.rightcolumn{
+    top:30px;
+    right:5px;
+    bottom: 20px;
+    width: 200px;
+    text-align: center;
+}
+.rcside{
+    text-align: left;
+}
+.frame{
+    right:112px;
+    left:75;
+    padding:20px;
+    margin:50px;
+    bottom: 100px
+}
+.allign{
+    text-align:left;
+}
